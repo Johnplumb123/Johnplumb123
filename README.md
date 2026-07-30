@@ -1,11 +1,13 @@
-### Hi, I'm John
+### Hi, I'm John Plumb
 
-Final-year Computer Science with Artificial Intelligence student at the University of Lincoln, graduating 2026. Focused on cyber security and software development, with a growing interest in data.
+Computer Science with Artificial Intelligence graduate from the University of Lincoln, focused on cyber security and software development, with a growing interest in data.
 
--  Interested in offensive security — penetration testing and vulnerability analysis
--  Dissertation: a privacy and security evaluation framework for fitness apps
--  Actively looking for graduate roles in cyber security, software development, and data
--  [LinkedIn](https://www.linkedin.com/in/john-plumb-727415375/)
+I'm naturally curious about how things work and why. I like taking on new problems, testing different approaches, and learning from the people around me — and I treat learning as an ongoing habit rather than something that stops after university. Outside of coursework, that means reading around software engineering and AI, building projects of my own, and using modern AI tools to strengthen my understanding of new concepts and explore areas I haven't worked in yet.
+
+- Interested in offensive security — penetration testing and vulnerability analysis
+- Dissertation: a privacy and security evaluation framework for fitness apps
+- Looking for graduate roles in cyber security, software development, and data
+- [LinkedIn](https://www.linkedin.com/in/john-plumb-727415375/)
 
 ---
 
@@ -35,4 +37,5 @@ Autonomous ROS2 robot that clears a simulated arena by detecting and pushing col
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+
 
