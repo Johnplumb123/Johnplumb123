@@ -2,10 +2,10 @@
 
 Final-year Computer Science with Artificial Intelligence student at the University of Lincoln, graduating 2026. Focused on cyber security and software development, with a growing interest in data.
 
-- 🔍 Interested in offensive security — penetration testing and vulnerability analysis
-- 🎓 Dissertation: a privacy and security evaluation framework for fitness apps
-- 💼 Actively looking for graduate roles in cyber security, software development, and data
-- 📫 [LinkedIn](https://www.linkedin.com/in/john-plumb-727415375/)
+-  Interested in offensive security — penetration testing and vulnerability analysis
+-  Dissertation: a privacy and security evaluation framework for fitness apps
+-  Actively looking for graduate roles in cyber security, software development, and data
+-  [LinkedIn](https://www.linkedin.com/in/john-plumb-727415375/)
 
 ---
 
